@@ -25,3 +25,10 @@ Esta función dibuja un triángulo equilátero desde el punto `start`, con cada 
   - La tortuga se mueve al punto `start` y se llama a la función `begin_fill()` para llenar el triángulo con color.
   - Luego, la tortuga dibuja un triángulo equilátero moviéndose hacia adelante con la longitud de `end.x - start.x` y girando 120 grados después de cada lado.
   - La función `end_fill()` se usa para llenar el triángulo.
+
+### Circle
+Esta función dibuja un círculo a partir del radio obtenido por los click's del susuario, para activarse se utiliza la
+letra c
+
+### Adicion de color amarillo
+Utilizando la tecla Y, se modifica el color a amarillo
