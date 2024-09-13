@@ -1,4 +1,4 @@
-# Manual de uso paint.py
+# Código modificado de paint.py (freegames)
 
 ## Descripción de Funciones
 
